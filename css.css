@@ -1,0 +1,18 @@
+.space{
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+#address{
+    width: 900px;
+}body{
+    padding: 50px;
+    margin: 20px;
+    border-color: black;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-style: ;
+}
